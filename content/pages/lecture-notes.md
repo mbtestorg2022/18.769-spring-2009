@@ -10,17 +10,267 @@ The book _Tensor Categories_ based on these 2009 notes was published by the Amer
 
 Complete 2009 lecture notes in one file ([PDF - 2.5MB]({{< baseurl >}}/resources/mit18_769s09_notes))
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| 1 | Basics of monoidal categories | ([PDF]({{< baseurl >}}/resources/mit18_769s09_lec01)) |
-| 2 |  {{< br >}}{{< br >}} Monoidal functors {{< br >}}{{< br >}} MacLane's strictness theorem {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit18_769s09_lec02)) |
-| 3 |  {{< br >}}{{< br >}} MacLane coherence theorem {{< br >}}{{< br >}} Rigid monoidal categories {{< br >}}{{< br >}} Invertible objects {{< br >}}{{< br >}} Tensor and multitensor categories {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit18_769s09_lec03)) |
-| 4 |  {{< br >}}{{< br >}} Tensor product and tensor functors {{< br >}}{{< br >}} Unit object {{< br >}}{{< br >}} Grothendieck rings {{< br >}}{{< br >}} Groupoids {{< br >}}{{< br >}} Finite abelian categories {{< br >}}{{< br >}} Fiber functors {{< br >}}{{< br >}} Coalgebras {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit18_769s09_lec04)) |
-| 5 | Bialgebras and Hopf algebras | ([PDF]({{< baseurl >}}/resources/mit18_769s09_lec05)) |
-| 6 |  {{< br >}}{{< br >}} Quantum groups {{< br >}}{{< br >}} Skew-primitive elements {{< br >}}{{< br >}} Pointed tensor categories {{< br >}}{{< br >}} Coradical filtration {{< br >}}{{< br >}} Chevalley's theorem and Chevalley property {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit18_769s09_lec06)) |
-| 7 |  {{< br >}}{{< br >}} Andruskeiwitsch-Schneider conjecture {{< br >}}{{< br >}} Cartier-Kostant theorem {{< br >}}{{< br >}} Quasi-bialgebras and quasi-Hopf algebras {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit18_769s09_lec07)) |
-| 8 |  {{< br >}}{{< br >}} Quantum traces {{< br >}}{{< br >}} Pivotal categories and dimensions {{< br >}}{{< br >}} Spherical categories {{< br >}}{{< br >}} Multitensor cateogries {{< br >}}{{< br >}} Multifusion rings {{< br >}}{{< br >}} Frobenius-Perron theorem {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit18_769s09_lec08)) |
-| 9 |  {{< br >}}{{< br >}} Tensor categories {{< br >}}{{< br >}} Deligne's tensor product {{< br >}}{{< br >}} Finite (multi)tensor categories {{< br >}}{{< br >}} Categorical freeness {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit18_769s09_lec09)) |
-| 10 |  {{< br >}}{{< br >}} Distinguished invertible object {{< br >}}{{< br >}} Integrals in quasi-Hopf algebras {{< br >}}{{< br >}} Cartan matrix {{< br >}}{{< br >}} Basics of Module categories {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit18_769s09_lec10)) |
-| 11 |  {{< br >}}{{< br >}} Exact module categories {{< br >}}{{< br >}} Algebras in categories {{< br >}}{{< br >}} Internal Hom {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit18_769s09_lec11)) |
-| 12 |  {{< br >}}{{< br >}} Main Theorem {{< br >}}{{< br >}} Categories of module functors {{< br >}}{{< br >}} Dual categories {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/mit18_769s09_lec12))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Basics of monoidal categories
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_769s09_lec01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Monoidal functors
+
+MacLane's strictness theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_769s09_lec02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+MacLane coherence theorem
+
+Rigid monoidal categories
+
+Invertible objects
+
+Tensor and multitensor categories
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_769s09_lec03))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tensor product and tensor functors
+
+Unit object
+
+Grothendieck rings
+
+Groupoids
+
+Finite abelian categories
+
+Fiber functors
+
+Coalgebras
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_769s09_lec04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Bialgebras and Hopf algebras
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_769s09_lec05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quantum groups
+
+Skew-primitive elements
+
+Pointed tensor categories
+
+Coradical filtration
+
+Chevalley's theorem and Chevalley property
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_769s09_lec06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Andruskeiwitsch-Schneider conjecture
+
+Cartier-Kostant theorem
+
+Quasi-bialgebras and quasi-Hopf algebras
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_769s09_lec07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quantum traces
+
+Pivotal categories and dimensions
+
+Spherical categories
+
+Multitensor cateogries
+
+Multifusion rings
+
+Frobenius-Perron theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_769s09_lec08))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tensor categories
+
+Deligne's tensor product
+
+Finite (multi)tensor categories
+
+Categorical freeness
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_769s09_lec09))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Distinguished invertible object
+
+Integrals in quasi-Hopf algebras
+
+Cartan matrix
+
+Basics of Module categories
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_769s09_lec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exact module categories
+
+Algebras in categories
+
+Internal Hom
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_769s09_lec11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Main Theorem
+
+Categories of module functors
+
+Dual categories
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit18_769s09_lec12))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

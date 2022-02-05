@@ -6,17 +6,267 @@ uid: 4a61e278-f0f4-870b-5259-625d575bd2b2
 
 In order to prepare for class, students are required to read selections from the course notes. These readings can be found on the [lecture notes]({{< baseurl >}}/pages/lecture-notes) page.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Basics of monoidal categories | Sections 1.1-1.3 |
-| 2 |  {{< br >}}{{< br >}} Monoidal functors {{< br >}}{{< br >}} MacLane's strictness theorem {{< br >}}{{< br >}}  | Sections 1.4-1.8 |
-| 3 |  {{< br >}}{{< br >}} MacLane coherence theorem {{< br >}}{{< br >}} Rigid monoidal categories {{< br >}}{{< br >}} Invertible objects {{< br >}}{{< br >}} Tensor and multitensor categories {{< br >}}{{< br >}}  | Sections 1.9-1.12 |
-| 4 |  {{< br >}}{{< br >}} Tensor product and tensor functors {{< br >}}{{< br >}} Unit object {{< br >}}{{< br >}} Grothendieck rings {{< br >}}{{< br >}} Groupoids {{< br >}}{{< br >}} Finite abelian categories {{< br >}}{{< br >}} Fiber functors {{< br >}}{{< br >}} Coalgebras {{< br >}}{{< br >}}  | Sections 1.13-1.20 |
-| 5 | Bialgebras and Hopf algebras | Sections 1.21-1.24 |
-| 6 |  {{< br >}}{{< br >}} Quantum groups {{< br >}}{{< br >}} Skew-primitive elements {{< br >}}{{< br >}} Pointed tensor categories {{< br >}}{{< br >}} Coradical filtration {{< br >}}{{< br >}} Chevalley's theorem and Chevalley property {{< br >}}{{< br >}}  | Sections 1.25-1.31 |
-| 7 |  {{< br >}}{{< br >}} Andruskeiwitsch-Schneider conjecture {{< br >}}{{< br >}} Cartier-Kostant theorem {{< br >}}{{< br >}} Quasi-bialgebras and quasi-Hopf algebras {{< br >}}{{< br >}}  | Sections 1.32-1.36 |
-| 8 |  {{< br >}}{{< br >}} Quantum traces {{< br >}}{{< br >}} Pivotal categories and dimensions {{< br >}}{{< br >}} Spherical categories {{< br >}}{{< br >}} Multitensor cateogries {{< br >}}{{< br >}} Multifusion rings {{< br >}}{{< br >}} Frobenius-Perron theorem {{< br >}}{{< br >}}  | Sections 1.37-1.44 |
-| 9 |  {{< br >}}{{< br >}} Tensor categories {{< br >}}{{< br >}} Deligne's tensor product {{< br >}}{{< br >}} Finite (multi)tensor categories {{< br >}}{{< br >}} Categorical freeness {{< br >}}{{< br >}}  | Sections 1.45-1.50 |
-| 10 |  {{< br >}}{{< br >}} Distinguished invertible object {{< br >}}{{< br >}} Integrals in quasi-Hopf algebras {{< br >}}{{< br >}} Cartan matrix {{< br >}}{{< br >}} Basics of Module categories {{< br >}}{{< br >}}  | Sections 1.51-1.53 and 2.1-2.6 |
-| 11 |  {{< br >}}{{< br >}} Exact module categories {{< br >}}{{< br >}} Algebras in categories {{< br >}}{{< br >}} Internal Hom {{< br >}}{{< br >}}  | Sections 2.7-2.10 |
-| 12 |  {{< br >}}{{< br >}} Main Theorem {{< br >}}{{< br >}} Categories of module functors {{< br >}}{{< br >}} Dual categories {{< br >}}{{< br >}}  | Sections 2.11-2.14
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Basics of monoidal categories
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.1-1.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Monoidal functors
+
+MacLane's strictness theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.4-1.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+MacLane coherence theorem
+
+Rigid monoidal categories
+
+Invertible objects
+
+Tensor and multitensor categories
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.9-1.12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tensor product and tensor functors
+
+Unit object
+
+Grothendieck rings
+
+Groupoids
+
+Finite abelian categories
+
+Fiber functors
+
+Coalgebras
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.13-1.20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Bialgebras and Hopf algebras
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.21-1.24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quantum groups
+
+Skew-primitive elements
+
+Pointed tensor categories
+
+Coradical filtration
+
+Chevalley's theorem and Chevalley property
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.25-1.31
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Andruskeiwitsch-Schneider conjecture
+
+Cartier-Kostant theorem
+
+Quasi-bialgebras and quasi-Hopf algebras
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.32-1.36
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quantum traces
+
+Pivotal categories and dimensions
+
+Spherical categories
+
+Multitensor cateogries
+
+Multifusion rings
+
+Frobenius-Perron theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.37-1.44
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tensor categories
+
+Deligne's tensor product
+
+Finite (multi)tensor categories
+
+Categorical freeness
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.45-1.50
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Distinguished invertible object
+
+Integrals in quasi-Hopf algebras
+
+Cartan matrix
+
+Basics of Module categories
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 1.51-1.53 and 2.1-2.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exact module categories
+
+Algebras in categories
+
+Internal Hom
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 2.7-2.10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Main Theorem
+
+Categories of module functors
+
+Dual categories
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 2.11-2.14
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -41,17 +41,228 @@ There will be five homework problem sets assigned during the course. It is ok to
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Basics of monoidal categories |
-| 2 |  {{< br >}}{{< br >}} Monoidal functors {{< br >}}{{< br >}} MacLane's strictness theorem {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} MacLane coherence theorem {{< br >}}{{< br >}} Rigid monoidal categories {{< br >}}{{< br >}} Invertible objects {{< br >}}{{< br >}} Tensor and multitensor categories {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Tensor product and tensor functors {{< br >}}{{< br >}} Unit object {{< br >}}{{< br >}} Grothendieck rings {{< br >}}{{< br >}} Groupoids {{< br >}}{{< br >}} Finite abelian categories {{< br >}}{{< br >}} Fiber functors {{< br >}}{{< br >}} Coalgebras {{< br >}}{{< br >}}  |
-| 5 | Bialgebras and Hopf algebras |
-| 6 |  {{< br >}}{{< br >}} Quantum groups {{< br >}}{{< br >}} Skew-primitive elements {{< br >}}{{< br >}} Pointed tensor categories {{< br >}}{{< br >}} Coradical filtration {{< br >}}{{< br >}} Chevalley's theorem and Chevalley property {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Andruskeiwitsch-Schneider conjecture {{< br >}}{{< br >}} Cartier-Kostant theorem {{< br >}}{{< br >}} Quasi-bialgebras and quasi-Hopf algebras {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Quantum traces {{< br >}}{{< br >}} Pivotal categories and dimensions {{< br >}}{{< br >}} Spherical categories {{< br >}}{{< br >}} Multitensor cateogries {{< br >}}{{< br >}} Multifusion rings {{< br >}}{{< br >}} Frobenius-Perron theorem {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Tensor categories {{< br >}}{{< br >}} Deligne's tensor product {{< br >}}{{< br >}} Finite (multi)tensor categories {{< br >}}{{< br >}} Categorical freeness {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Distinguished invertible object {{< br >}}{{< br >}} Integrals in quasi-Hopf algebras {{< br >}}{{< br >}} Cartan matrix {{< br >}}{{< br >}} Basics of Module categories {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Exact module categories {{< br >}}{{< br >}} Algebras in categories {{< br >}}{{< br >}} Internal Hom {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} Main Theorem {{< br >}}{{< br >}} Categories of module functors {{< br >}}{{< br >}} Dual categories {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Basics of monoidal categories
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Monoidal functors
+
+MacLane's strictness theorem
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+MacLane coherence theorem
+
+Rigid monoidal categories
+
+Invertible objects
+
+Tensor and multitensor categories
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tensor product and tensor functors
+
+Unit object
+
+Grothendieck rings
+
+Groupoids
+
+Finite abelian categories
+
+Fiber functors
+
+Coalgebras
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Bialgebras and Hopf algebras
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quantum groups
+
+Skew-primitive elements
+
+Pointed tensor categories
+
+Coradical filtration
+
+Chevalley's theorem and Chevalley property
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Andruskeiwitsch-Schneider conjecture
+
+Cartier-Kostant theorem
+
+Quasi-bialgebras and quasi-Hopf algebras
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quantum traces
+
+Pivotal categories and dimensions
+
+Spherical categories
+
+Multitensor cateogries
+
+Multifusion rings
+
+Frobenius-Perron theorem
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tensor categories
+
+Deligne's tensor product
+
+Finite (multi)tensor categories
+
+Categorical freeness
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Distinguished invertible object
+
+Integrals in quasi-Hopf algebras
+
+Cartan matrix
+
+Basics of Module categories
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Exact module categories
+
+Algebras in categories
+
+Internal Hom
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Main Theorem
+
+Categories of module functors
+
+Dual categories
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
